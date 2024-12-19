@@ -1,0 +1,17 @@
+p{
+    color: purple;
+
+}
+
+#idname{
+    color: red;
+}
+.c1{
+    color: aqua;
+
+}
+
+h3.c2{
+    color: skyblue;
+}
+h4,h5,h6{color: lime;}
